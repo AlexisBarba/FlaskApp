@@ -8,4 +8,4 @@ Nous avons créé une petite application amusante Python Flask qui affiche des .
 2. Avoir installe Docker engine
 3. Pour contruire l'image : docker image build -t flask_docker .
 4. Pour run le container: docker run -p 5000:5000 -d flask_docker
- 
+5. L'application se trouve donc sur localhost:5000
